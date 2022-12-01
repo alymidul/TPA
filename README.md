@@ -1,3 +1,3 @@
 # TPAjavas
-Lições de Desenvolvimento de Sistemas 1°ano
+Lições de Desenvolvimento de Sistemas 1°ano 😄
 BEM-VINDO!!!
